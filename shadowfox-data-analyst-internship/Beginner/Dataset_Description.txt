@@ -1,0 +1,8 @@
+This dataset contains monthly retail sales data used to generate dashboards.
+
+Details:
+- Cities covered: Chennai, Mumbai, Delhi, Nagpur, Patna, Pune, Ranchi, Surat
+- Metrics: Total Sales, Target Achievement %, Gap from Target
+- Columns include: City, Executive Name, Month, Sales Amount, Target, Gap
+- Data used to generate KPIs and interactive charts
+
