@@ -97,7 +97,6 @@ Power BI dashboard created to visualize:
 * Country-wise content
 * Yearly growth trends
 
-📌 *(Add dashboard screenshot here)*
 
 ---
 
