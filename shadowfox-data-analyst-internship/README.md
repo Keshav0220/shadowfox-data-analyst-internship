@@ -379,18 +379,3 @@ These projects helped me strengthen both my technical data-analysis skills and m
 
 ⭐ **Thank you for visiting my ShadowFox Data Analyst Internship repository!**
 
-````
-
-### One important thing
-
-Your **root README should stay like this**. Don't copy the detailed project information from your Beginner/Intermediate/Advanced READMEs into the root again. The structure should be:
-
-```text
-Root README
-    ↓
-Overview of entire internship
-    ↓
-Beginner README → detailed Beginner project
-Intermediate README → detailed Intermediate project
-Advanced README → detailed Advanced project
-````
